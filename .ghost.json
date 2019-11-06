@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://https://tdt.jjohnson.io",
+    "apiUrl": "https://tdt.jjohnson.io",
     "contentApiKey": "eb7b721ae08466a8cef2b88747"
   },
   "production": {
-    "apiUrl": "https://https://tdt.jjohnson.io",
+    "apiUrl": "https://tdt.jjohnson.io",
     "contentApiKey": "eb7b721ae08466a8cef2b88747"
   }
 }
